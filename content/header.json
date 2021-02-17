@@ -18,7 +18,13 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [],
+    "featured": [
+      "/produtos-populares?Lançamentos",
+      "/u_10009?Acessórios ",
+      "/moara-makeup?Moara Makeup ",
+      "/brincos?Brincos",
+      "/petit-moara?Petit Moara"
+    ],
     "random": 6,
     "full_width": false
   },
